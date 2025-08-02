@@ -5,6 +5,9 @@
 
 .home .texto-home {
     letter-spacing: 2px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .home .texto-home, .home .img-home {
