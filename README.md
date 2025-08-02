@@ -10,7 +10,7 @@ A proposta deste portfólio é apresentar de forma organizada os principais proj
 
 - HTML5
 - CSS3
-- JavaScript 
+- JS 
 - Git e GitHub
 - VS Code
 
