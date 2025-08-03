@@ -67,7 +67,7 @@ body {
 }
 
 .outer-shadow {
-  box-shadow: 3px 3px #222327, -3px -3px 3px #454545;
+  box-shadow: 3px 3px #222327, -3px -3px 3px #1a1818;
 }
 
 .inner-shadow {
